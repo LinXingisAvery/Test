@@ -27,6 +27,7 @@ public class StringToInt {
 		return result;
 	}
 public static void main(String[] args) {
+	
 	int b=testParseInt("-123")+1;
 	System.out.println(b);//-122
 }	
